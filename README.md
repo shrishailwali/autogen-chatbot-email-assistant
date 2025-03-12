@@ -27,4 +27,5 @@ Installation
     streamlit run app.py
 
 
-![alt text]({FBB531A9-4E8E-4A06-8E8B-E441974D1420}.png)
+
+![alt text]({EA05A8DA-EBFE-421E-BF5C-BBC979C49BCB}.png)
