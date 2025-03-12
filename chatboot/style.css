@@ -1,0 +1,63 @@
+/* General Page Styles */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+/* Sidebar Styling */
+.sidebar .block-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Chatbot Section */
+h3 {
+    color: #2c3e50;
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+/* Chat History */
+.chat-container {
+    background-color: #ecf0f1;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* Email Section */
+.email-card {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+}
+
+/* Database Query Section */
+.query-container {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+}
+
+/* Buttons */
+button {
+    background-color: #3498db !important;
+    color: white !important;
+    border-radius: 5px !important;
+    padding: 10px 20px !important;
+    border: none !important;
+}
+
+/* Input Fields */
+textarea, select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
