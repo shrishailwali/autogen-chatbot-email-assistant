@@ -13,3 +13,10 @@ AZURE_API_TYPE = "CDFR"
 AZURE_API_VERSION = "2023-05-15"
 AZURE_DEPLOYMENT = "ABCD"
 
+POSTGRES_CONFIG = {
+    "host": "localhost",
+    "port": 5432,
+    "database": "db_name",
+    "user": "username",
+    "password": "XXXXXXX",
+}
